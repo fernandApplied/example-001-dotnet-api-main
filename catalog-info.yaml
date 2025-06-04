@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: heroes-dotnet-api
+  name: example-001-dotnet-api-main
   description: Heroes API is a RESTful API that provides manages heroes.
   tags:
     - dotnet
